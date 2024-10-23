@@ -3,7 +3,7 @@
 <b><i> EXCERPT FROM NBA GAMES PLAYED ON 2024-02-22: </b></i>
 <br><br>
 ![2024-02-22MatchResults](https://github.com/user-attachments/assets/376ab6ea-146f-4ed8-b322-a9d84505ab42)
-• DATE: Date game played (Predictions begin on games played post-2024 All Star Game which was played on 2024-02-18) <br>
+• DATE: Date game played (Predictions start on games played post the 2024 All Star Game which was played on 2024-02-18) <br> 
 • MATCH: Team abbreviation of away team @ team abbreviation of home team <br>
 • GAMEID: Every NBA game has a unique GAMEID <br>
 • MODEL PREDICTS: Team abbreviation that model predicts to win <br>
