@@ -318,17 +318,16 @@
 
 ![ORL_byLogLossStandardized](https://github.com/user-attachments/assets/822612e8-3f12-44ff-8ac3-09bfcfb135ad)
 
-
-# FURTHER QUESTIONS 
-## TEAM WIN% AT HOME?
+# FURTHER INSIGHTS
+## TEAM WIN% AT HOME
 ![recordAtHome](https://github.com/user-attachments/assets/d935e338-5e9e-4bc5-8a79-cc68fcdca53a)
-## TEAM WIN% ON THE ROAD?
+## TEAM WIN% ON THE ROAD
 ![recordRoad](https://github.com/user-attachments/assets/8feda766-cace-4a11-8d52-0e53915da681)
-## TEAM  WIN% WITH 0 DAYS OFF?
+## TEAM  WIN% WITH 0 DAYS OFF
 ![0DAYSOFF](https://github.com/user-attachments/assets/1690a4f8-1e0a-4fe8-8454-2c92f73229fb)
-## TEAM  WIN% WITH 1 DAY OFF?
+## TEAM  WIN% WITH 1 DAY OFF
 ![1DAYOFF](https://github.com/user-attachments/assets/93392b93-510c-4f44-b9e0-761a9abb5afd)
-## TEAM  WIN% WITH 2 DAYS OFF?
+## TEAM  WIN% WITH 2 DAYS OFF
 ![2DAYSOFF](https://github.com/user-attachments/assets/a5689a5c-57c5-44a0-8414-c2f337a621bb)
-## TEAM  WIN% WITH >2 DAYS OFF?
+## TEAM  WIN% WITH >2 DAYS OFF
 ![moreThan2DAYSOFF](https://github.com/user-attachments/assets/91c1b630-037e-4bab-8849-a3cc88193963)
