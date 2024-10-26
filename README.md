@@ -11,16 +11,17 @@
 • BETTING FAVORITE: (Team abbreviation of betting favorite, match spread, ✅ if model vs betting favorite model prediction correct ❌ if incorrect)
 # MATCH TRAIN & TEST DETAILS AND DECISION BOUNDARIES
 ## MATCH ORL @ CLE, GAMEID: 22300792 TRAIN & TEST DETAILS
-![ORL@CLE_RESULTS](https://github.com/user-attachments/assets/7d42cece-b062-4be5-b21a-1a7b939ccd4d)
-![ORL@CLE_MatchTestDetails](https://github.com/user-attachments/assets/a033fb2e-b2d6-49e0-8861-8474797a31ae)
+![ORL@CLE_RESULTS](https://github.com/user-attachments/assets/c95078f6-2750-49c7-8470-33129894b52e)
+![ORL@CLE_MatchTestDetails](https://github.com/user-attachments/assets/f41b3272-9c47-4bb1-9829-5716b06cb321)
 • TRAIN SIZE: Number of applicable previous games used to train model <br>
 •	FEATURE: Feature with largest odds ratio (also tested feature with lowest log loss) <br>
 •	PREDICT X_test: X_test used in prediction <br>
 •	T/S: Indicates if true/standardized value used in train <br>
 • PROBABILITY ESTIMATE: Team with the larger probability estimate is predicted to be the winner
 ## MATCH ORL @ CLE, GAMEID: 22300792 DECISION BOUNDARIES
-![ORL](https://github.com/user-attachments/assets/aff57972-8b5a-45a9-b4fe-52bffa78d6d5)
-![CLE](https://github.com/user-attachments/assets/6a7cef13-c2d5-4e2c-b419-3a2f078f4211)
+![ORL](https://github.com/user-attachments/assets/f16e4851-7eb6-4ee0-b099-165a6b9bd2a1)
+![CLE](https://github.com/user-attachments/assets/ee02b708-849f-4fea-80d3-ae83e039db90)
+<br>
 •	Created with mlxtend's [plot_decision_regions](https://rasbt.github.io/mlxtend/user_guide/plotting/plot_decision_regions/) <br>
 •	White star is PREDICT X_test value location used for prediction <br>
 •	In red region model predicts loss, in blue region model predicts win <br>
@@ -39,8 +40,8 @@
 •	T/S: Indicates if true/standardized value used in train <br>
 • PROBABILITY ESTIMATE: Team with the larger probability estimate is predicted to be the winner
 ## MATCH DET @ IND, GAMEID: 22300793 DECISION BOUNDARIES
-![DET](https://github.com/user-attachments/assets/ec0d837d-84c7-4160-bf25-29ba34b5eb28)
-![IND](https://github.com/user-attachments/assets/f2a69a8d-b60e-417a-b994-48ad5f5691c3)
+![DET](https://github.com/user-attachments/assets/f4941d36-b6a4-4eba-ae23-918b476b4077)
+![IND](https://github.com/user-attachments/assets/74449c8f-dc0f-4a2d-9129-48d314bf8c69)
 •	Created with mlxtend's [plot_decision_regions](https://rasbt.github.io/mlxtend/user_guide/plotting/plot_decision_regions/) <br>
 •	White star is PREDICT X_test value location used for prediction <br>
 •	In red region model predicts loss, in blue region model predicts win <br>
@@ -59,8 +60,8 @@
 •	T/S: Indicates if true/standardized value used in train <br>
 • PROBABILITY ESTIMATE: Team with the larger probability estimate is predicted to be the winner
 ## MATCH NYK @ PHI, GAMEID: 22300794 DECISION BOUNDARIES
-![NYK](https://github.com/user-attachments/assets/256e3ff2-4df0-4d87-9708-81038949bdea)
-![PHI](https://github.com/user-attachments/assets/3d6a6c5d-c8b6-432b-b98c-14b8b1b4b3a5)
+![NYK](https://github.com/user-attachments/assets/263e0437-9262-4bc3-9967-8e6955e1528c)
+![PHI](https://github.com/user-attachments/assets/4ed05247-f6cb-4ce1-9432-dd76fffe32ff)
 •	Created with mlxtend's [plot_decision_regions](https://rasbt.github.io/mlxtend/user_guide/plotting/plot_decision_regions/) <br>
 •	White star is PREDICT X_test value location used for prediction <br>
 •	In red region model predicts loss, in blue region model predicts win <br>
@@ -79,8 +80,8 @@
 •	T/S: Indicates if true/standardized value used in train <br>
 • PROBABILITY ESTIMATE: Team with the larger probability estimate is predicted to be the winner
 ## MATCH BKN @ TOR, GAMEID: 22300795 DECISION BOUNDARIES
-![BKN](https://github.com/user-attachments/assets/f5a86c9b-cb95-465d-a07b-cf76d12c226a)
-![TOR](https://github.com/user-attachments/assets/e01d3ce7-c268-440f-a25d-ea4d686f9407)
+![BKN](https://github.com/user-attachments/assets/257e343e-4cff-4c5f-89c2-c18903b2174e)
+![TOR](https://github.com/user-attachments/assets/97d54a0d-b7c9-417f-b806-4b8d0c33a471)
 •	Created with mlxtend's [plot_decision_regions](https://rasbt.github.io/mlxtend/user_guide/plotting/plot_decision_regions/) <br>
 •	White star is PREDICT X_test value location used for prediction <br>
 •	In red region model predicts loss, in blue region model predicts win <br>
@@ -99,8 +100,8 @@
 •	T/S: Indicates if true/standardized value used in train <br>
 • PROBABILITY ESTIMATE: Team with the larger probability estimate is predicted to be the winner
 ## MATCH PHX @ DAL, GAMEID: 22300796 DECISION BOUNDARIES
-![PHX](https://github.com/user-attachments/assets/6e076d8f-638d-41c8-916a-7cf04a9cde21)
-![DAL](https://github.com/user-attachments/assets/f5f3abee-92a3-4991-9a38-cbd550da6b7c)
+![PHX](https://github.com/user-attachments/assets/ade38e2e-1ea3-40c1-836d-d70137a8e4b4)
+![DAL](https://github.com/user-attachments/assets/5a24cf4f-56fe-4409-8b1c-9c9d2cf58bc9)
 •	Created with mlxtend's [plot_decision_regions](https://rasbt.github.io/mlxtend/user_guide/plotting/plot_decision_regions/) <br>
 •	White star is PREDICT X_test value location used for prediction <br>
 •	In red region model predicts loss, in blue region model predicts win <br>
@@ -119,8 +120,8 @@
 •	T/S: Indicates if true/standardized value used in train <br>
 • PROBABILITY ESTIMATE: Team with the larger probability estimate is predicted to be the winner
 ## MATCH BOS @ CHI, GAMEID: 22300797 DECISION BOUNDARIES
-![BOS](https://github.com/user-attachments/assets/63f971ac-9d02-42b1-9027-adfc0dcba238)
-![CHI](https://github.com/user-attachments/assets/e6966a89-83be-42dc-ae4c-e93eec5164a5)
+![BOS](https://github.com/user-attachments/assets/f93c076c-02a7-4c73-83f0-6e5dacb53d7c)
+![CHI](https://github.com/user-attachments/assets/b1be3e78-0187-4877-8255-dbb3fc07b846)
 •	Created with mlxtend's [plot_decision_regions](https://rasbt.github.io/mlxtend/user_guide/plotting/plot_decision_regions/) <br>
 •	White star is PREDICT X_test value location used for prediction <br>
 •	In red region model predicts loss, in blue region model predicts win <br>
@@ -139,8 +140,8 @@
 •	T/S: Indicates if true/standardized value used in train <br>
 • PROBABILITY ESTIMATE: Team with the larger probability estimate is predicted to be the winner
 ## MATCH HOU @ NOP, GAMEID: 22300798 DECISION BOUNDARIES
-![HOU](https://github.com/user-attachments/assets/b69a4100-be18-4762-bc43-6b63404be897)
-![NOP](https://github.com/user-attachments/assets/410051dc-66c3-4404-80a3-9c30840cd2bc)
+![HOU](https://github.com/user-attachments/assets/a7e8cdce-9839-43f5-9cc7-c1d627d04ff8)
+![NOP](https://github.com/user-attachments/assets/79d9ec9d-c968-43ca-9b36-db15efdd5334)
 •	Created with mlxtend's [plot_decision_regions](https://rasbt.github.io/mlxtend/user_guide/plotting/plot_decision_regions/) <br>
 •	White star is PREDICT X_test value location used for prediction <br>
 •	In red region model predicts loss, in blue region model predicts win <br>
@@ -159,8 +160,8 @@
 •	T/S: Indicates if true/standardized value used in train <br>
 • PROBABILITY ESTIMATE: Team with the larger probability estimate is predicted to be the winner
 ## MATCH LAC @ OKC, GAMEID: 22300799 DECISION BOUNDARIES
-![LAC](https://github.com/user-attachments/assets/0f6d1198-a43c-4e7f-8c1f-05ca21e9cfc9)
-![OKC](https://github.com/user-attachments/assets/d2916eec-773f-4ea6-a6f2-10c963cd4f94)
+![LAC](https://github.com/user-attachments/assets/edd77e4d-a1de-4b45-bfb1-555470bf39a7)
+![OKC](https://github.com/user-attachments/assets/f558bb22-ce15-47dc-9445-1f054672f42f)
 •	Created with mlxtend's [plot_decision_regions](https://rasbt.github.io/mlxtend/user_guide/plotting/plot_decision_regions/) <br>
 •	White star is PREDICT X_test value location used for prediction <br>
 •	In red region model predicts loss, in blue region model predicts win <br>
@@ -179,8 +180,8 @@
 •	T/S: Indicates if true/standardized value used in train <br>
 • PROBABILITY ESTIMATE: Team with the larger probability estimate is predicted to be the winner
 ## MATCH WAS @ DEN, GAMEID: 22300800 DECISION BOUNDARIES
-![WAS](https://github.com/user-attachments/assets/7a14e75f-4837-4edf-9aca-ccee9df72171)
-![DEN](https://github.com/user-attachments/assets/4fe1ef7a-f101-4b68-afb0-bf504b4b9cb0)
+![WAS](https://github.com/user-attachments/assets/52d3f207-0397-4ba0-a39a-8369f967325b)
+![DEN](https://github.com/user-attachments/assets/db31dac9-43d8-485e-ad4d-786caee405a8)
 •	Created with mlxtend's [plot_decision_regions](https://rasbt.github.io/mlxtend/user_guide/plotting/plot_decision_regions/) <br>
 •	White star is PREDICT X_test value location used for prediction <br>
 •	In red region model predicts loss, in blue region model predicts win <br>
@@ -199,8 +200,8 @@
 •	T/S: Indicates if true/standardized value used in train <br>
 • PROBABILITY ESTIMATE: Team with the larger probability estimate is predicted to be the winner
 ## MATCH CHA @ UTA, GAMEID: 22300801 DECISION BOUNDARIES
-![CHA](https://github.com/user-attachments/assets/94649217-925c-4136-9ed6-d56708a7680d)
-![UTA](https://github.com/user-attachments/assets/856f87f6-b76f-4751-9f75-d9019b19e61b)
+![CHA](https://github.com/user-attachments/assets/10582fb1-75a2-4803-bc71-6135df178990)
+![UTA](https://github.com/user-attachments/assets/fb5a7097-e8f7-4e6b-bfce-55733dd09c9b)
 •	Created with mlxtend's [plot_decision_regions](https://rasbt.github.io/mlxtend/user_guide/plotting/plot_decision_regions/) <br>
 •	White star is PREDICT X_test value location used for prediction <br>
 •	In red region model predicts loss, in blue region model predicts win <br>
@@ -219,8 +220,8 @@
 •	T/S: Indicates if true/standardized value used in train <br>
 • PROBABILITY ESTIMATE: Team with the larger probability estimate is predicted to be the winner
 ## MATCH LAL @ GSW, GAMEID: 22300802 DECISION BOUNDARIES
-![LAL](https://github.com/user-attachments/assets/5b12029e-e251-43e6-ac70-f0e0019c4e17)
-![GSW](https://github.com/user-attachments/assets/3c6689ac-7ffb-4f65-bdba-c32136cca6dd)
+![LAL](https://github.com/user-attachments/assets/476cdb54-284c-4e17-aec4-1901e376abbe)
+![GSW](https://github.com/user-attachments/assets/6b2c59e7-3021-42d3-a6d1-6b42d153b4aa)
 •	Created with mlxtend's [plot_decision_regions](https://rasbt.github.io/mlxtend/user_guide/plotting/plot_decision_regions/) <br>
 •	White star is PREDICT X_test value location used for prediction <br>
 •	In red region model predicts loss, in blue region model predicts win <br>
@@ -239,8 +240,8 @@
 •	T/S: Indicates if true/standardized value used in train <br>
 • PROBABILITY ESTIMATE: Team with the larger probability estimate is predicted to be the winner
 ## MATCH SAS @ SAC, GAMEID: 22300803 DECISION BOUNDARIES
-![SAS](https://github.com/user-attachments/assets/a3b37c11-3169-482b-8031-faa611ffd9ce)
-![SAC](https://github.com/user-attachments/assets/070f6730-32cd-4b5e-ab9e-60f1e2abb3ca)
+![SAS](https://github.com/user-attachments/assets/9ae348d1-1737-46f9-8e9d-57011e2fc787)
+![SAC](https://github.com/user-attachments/assets/ebcc6277-dc36-4da2-bbab-c7bb5e6179d1)
 •	Created with mlxtend's [plot_decision_regions](https://rasbt.github.io/mlxtend/user_guide/plotting/plot_decision_regions/) <br>
 •	White star is PREDICT X_test value location used for prediction <br>
 •	In red region model predicts loss, in blue region model predicts win <br>
@@ -268,45 +269,44 @@
 # CONCLUSIONS:
 <b>PREDICTION RESULTS BY TEAM</b>
 <br>
-![percentCorrect](https://github.com/user-attachments/assets/f4bd464f-4f98-4a1a-99c6-d4528ec3c47e)
+![percentCorrect](https://github.com/user-attachments/assets/7793f56b-edd3-4b82-87b0-2d6d430198ff)
 <b><i> Gaps exists because model makes 0 predictions of a Pistons win </i></b>
 <br><br>
-![numberCorrect](https://github.com/user-attachments/assets/d87384fe-95e5-4797-b5c8-fccc0a5adf93)
+![correct](https://github.com/user-attachments/assets/6b92b077-736b-4af4-b22b-2c9c2bfe9fb0)
 <b><i> Model correclty predicts a league high of 26 vs Actual Result & 21 vs Betting Favorite for Boston Celtics </i></b>
 <br><br>
-![numberincorrect](https://github.com/user-attachments/assets/bdccbdce-02f5-4cd5-bfa6-cf3c6e9b565e)
+![incorrect](https://github.com/user-attachments/assets/fe88c58c-17aa-4108-804f-1bb4e64ff92e)
 <b><i> Model incorrectly predicts a league high of 12 vs Actual Result for Cleveland Cavaliers </i></b>
 <br>
 # CONCLUSIONS:
 <b>FEATURE IMPACT BY TEAM</b><br>
 <i>Teams where same feature is used for all team predictions are highlighted</i>
 <br><br>
-![maxFeatures](https://github.com/user-attachments/assets/a9776b23-9696-43e1-9f79-7a39e2e7f50d)
+![max](https://github.com/user-attachments/assets/bddd20c7-f6b7-4210-8f07-c035cbb58ce6)
 # CONCLUSIONS:
 
 <b>How feature, 2ND PTSL3MA for Atlanta Hawks (ATL) compares to rest of league </b> <br>
 <br>
 ![sameFeatureATL](https://github.com/user-attachments/assets/8fe0d663-3432-439c-8022-28baab0b4350)
-![2ND PTSL3MA](https://github.com/user-attachments/assets/40c43748-1196-409b-b79e-bd3b7752fe12)
+![ATL_](https://github.com/user-attachments/assets/47188248-6fa2-4b85-bae8-a7033ca002e5)
 
 # CONCLUSIONS:
 <b> How feature, OPP PTS OFF TOL1MA for Charlotte Hornets (CHA) compares to rest of league </b> <br>
 <br>
 ![sameFeatureCHA](https://github.com/user-attachments/assets/b800f251-e34f-46dd-95de-854489b56f00)
-![OPP PTS OFF TOL1MA](https://github.com/user-attachments/assets/ec0507c4-363b-45fb-a0cf-93b7cd8cecbd)
+![CHA_](https://github.com/user-attachments/assets/f621e5a9-fc16-4368-b15e-0733f2998717)
 
 # CONCLUSIONS:
 <b> How feature, PTS OFF TOL1MA for Los Angeles Clippers (LAC) compares to rest of league </b> <br>
 <br>
 ![sameFeatureLAC](https://github.com/user-attachments/assets/70e5d42d-651c-4897-b32a-78ec4493d487)
-![PTS OFF TOL1MA](https://github.com/user-attachments/assets/6c557ba9-6908-4f36-bd32-87483d410a20)
+![LAC_](https://github.com/user-attachments/assets/e7ad128b-cb82-47a6-abb0-6b9b7dfb8181)
 <br>
 # CONCLUSIONS:
 <b> How feature, FBPSL1MA for Oklahoma City Thunder (OKC) & Memphis Grizzlies (MEM) compares to rest of league </b> <br>
 ![sameFeatureOKC_MEM](https://github.com/user-attachments/assets/6c609e90-a0a3-44e1-85c7-6a241a4d339a)
 <br>
-![FBPSL1MA](https://github.com/user-attachments/assets/7b9eefcf-8c95-4c94-9895-9a413e435e7b)
-
+![OKC_MEM_](https://github.com/user-attachments/assets/9323b57d-fc83-4c55-acf1-4de2be6c85ba)
 
 # PROFF: BY ODDS RATIO
 ![ORL_byOddsRatioTrue](https://github.com/user-attachments/assets/d7d43fbc-1e6e-4455-8efe-dd71d41f1a61)
@@ -318,17 +318,18 @@
 
 ![ORL_byLogLossStandardized](https://github.com/user-attachments/assets/822612e8-3f12-44ff-8ac3-09bfcfb135ad)
 
-
-# FURTHER QUESTIONS 
-## TEAM WIN% AT HOME?
+# FURTHER INSIGHTS
+## TEAM WIN% AT HOME
 ![recordAtHome](https://github.com/user-attachments/assets/d935e338-5e9e-4bc5-8a79-cc68fcdca53a)
-## TEAM WIN% ON THE ROAD?
+## TEAM WIN% ON THE ROAD
 ![recordRoad](https://github.com/user-attachments/assets/8feda766-cace-4a11-8d52-0e53915da681)
-## TEAM  WIN% WITH 0 DAYS OFF?
+## TEAM  WIN% WITH 0 DAYS OFF
 ![0DAYSOFF](https://github.com/user-attachments/assets/1690a4f8-1e0a-4fe8-8454-2c92f73229fb)
-## TEAM  WIN% WITH 1 DAY OFF?
+## TEAM  WIN% WITH 1 DAY OFF
 ![1DAYOFF](https://github.com/user-attachments/assets/93392b93-510c-4f44-b9e0-761a9abb5afd)
-## TEAM  WIN% WITH 2 DAYS OFF?
+## TEAM  WIN% WITH 2 DAYS OFF
 ![2DAYSOFF](https://github.com/user-attachments/assets/a5689a5c-57c5-44a0-8414-c2f337a621bb)
-## TEAM  WIN% WITH >2 DAYS OFF?
+## TEAM  WIN% WITH >2 DAYS OFF
 ![moreThan2DAYSOFF](https://github.com/user-attachments/assets/91c1b630-037e-4bab-8849-a3cc88193963)
+
+![](https://komarev.com/ghpvc/?username=your-olutosinfashusi)
