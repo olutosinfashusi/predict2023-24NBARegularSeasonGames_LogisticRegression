@@ -318,7 +318,7 @@
 
 ![ORL_byLogLossStandardized](https://github.com/user-attachments/assets/822612e8-3f12-44ff-8ac3-09bfcfb135ad)
 
-# FURTHER INSIGHTS
+# FURTHER INSIGHTS:
 ## TEAM WIN% AT HOME
 ![recordAtHome](https://github.com/user-attachments/assets/d935e338-5e9e-4bc5-8a79-cc68fcdca53a)
 ## TEAM WIN% ON THE ROAD
